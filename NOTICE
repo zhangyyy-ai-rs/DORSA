@@ -1,0 +1,17 @@
+DORSA
+
+This release contains original DORSA code and task adapters, together with
+components adapted from open-source research codebases.
+
+Upstream components and frameworks include:
+
+- timm / pytorch-image-models
+- MMRotate
+- GeoSeg / UNetFormer
+- A2Net
+- CLAFA
+- LWGANet repository structure and selected integration patterns
+
+Please retain this notice, the top-level LICENSE, and task-specific licenses
+under subdirectories such as detection/ and segmentation/ when redistributing
+the repository.
