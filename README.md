@@ -25,6 +25,7 @@ dorsa-main/
 Before training downstream tasks, pre-trained DORSA weights from ImageNet-1K are placed into the task-specific weight path. Here we provide the DORSA pre-trained weights on the ImageNet-1K dataset for 300 epochs: [Download](https://drive.google.com/file/d/1G4O2Pio5N9Go8MRcrNgVt22N3_HvFy1t/view?usp=drive_link)
 
 ## ImageNet Pretraining
+If you need to retrain the pre-trained weights, you can do so in the following way:
 
 ```shell
 cd pretrain
